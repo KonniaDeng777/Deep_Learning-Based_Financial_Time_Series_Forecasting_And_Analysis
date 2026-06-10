@@ -170,3 +170,11 @@ Across scripts, common metrics include:
 - This is a thesis research codebase with multiple experimental variants.
 - Hyperparameters and dataset choice are configured inside each script.
 - Some scripts are designed as ablation studies and may take longer to train.
+
+---
+
+## References
+
+[1] LIU Y, QIAO X, PEI Y, et al. Deep functional factor models: forecasting high-dimensional functional time series via bayesian nonparametric factorization[A]. 2023.
+
+[2] VULETIĆ M, PRENZEL F, CUCURINGU M. Fin-gan: Forecasting and classifying financial time series via generative adversarial networks[J]. Quantitative Finance, 2024, 24(2): 175-199.

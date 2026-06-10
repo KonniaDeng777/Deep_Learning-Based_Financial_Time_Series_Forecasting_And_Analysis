@@ -140,11 +140,18 @@ Representative prediction results:
 
 ![S&P 500 LSTM Prediction](results/SP-predictions-LSTM.png)
 ![S&P 500 RNN Prediction](results/SP-predictions-RNN.png)
+![S&P 500 DF2M Prediction](results/SP-df2m-predictions.png)
+![S&P 500 FinGAN Prediction](results/SP-predictions-FinGAN.png)
 
 ### SSE / CSI 500
 
 ![SSE LSTM Prediction](results/SSE-predictions-LSTM.png)
 ![SSE RNN Prediction](results/SSE-predictions-RNN.png)
+![SSE DF2M Prediction](results/SSE-df2m-predictions.png)
+![SSE FinGAN Prediction](results/SSE-predictions-FinGAN.png)
+
+### Comparision
+![Comparision](results/compare.png)
 
 ---
 

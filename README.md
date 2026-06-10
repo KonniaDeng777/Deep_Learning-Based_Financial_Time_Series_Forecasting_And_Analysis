@@ -150,8 +150,6 @@ Representative prediction results:
 ![SSE DF2M Prediction](results/SSE-df2m-predictions.png)
 ![SSE FinGAN Prediction](results/SSE-predictions-FinGAN.png)
 
-### Comparision
-![Comparision](results/compare.png)
 
 ---
 
@@ -164,7 +162,7 @@ Across scripts, common metrics include:
 - RMSE
 - R²
 - Information Ratio (in selected scripts)
-
+![Comparision](results/compare.png)
 ---
 
 ## Notes

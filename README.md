@@ -132,6 +132,20 @@ python FinGAN/main-single.py
 
 Generated figures are saved under each module's `results/` folder and in the root-level `results/` aggregation folder.
 
+## Results Gallery
+
+Representative prediction results:
+
+### S&P 500
+
+![S&P 500 LSTM Prediction](results/SP-predictions-LSTM.png)
+![S&P 500 RNN Prediction](results/SP-predictions-RNN.png)
+
+### SSE / CSI 500
+
+![SSE LSTM Prediction](results/SSE-predictions-LSTM.png)
+![SSE RNN Prediction](results/SSE-predictions-RNN.png)
+
 ---
 
 ## Evaluation Metrics
